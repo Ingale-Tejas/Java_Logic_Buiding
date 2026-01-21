@@ -7,7 +7,7 @@ public class check_even_odd {
                 return true;
             } else {
                 return false;
-            }c
+            }
     }
 
     public static void main(String[] args) {
