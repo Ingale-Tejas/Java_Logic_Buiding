@@ -44,7 +44,7 @@ public class BankAccount {
         double balance = sc.nextDouble();
         //1000;
         BankAccount ba = new BankAccount(accountNumber, holderName, balance);
-        ba.display(balance);
+        ba.display(balance);//bank
 
     }
 }
